@@ -1,0 +1,52 @@
+/*.fm{
+border: 1px solid #f6f6f5;
+background-color: #f6f6f5;
+height:300px;
+width:300px;
+
+}*/
+
+body {
+    background: #56baed;
+}
+
+.main-container {
+    max-width: 500px;
+    padding: 15% 0;
+    margin: auto;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #cccccc;
+}
+
+
+
+.login-form {
+    padding: 45px 45px 45px 20px;
+    position: relative;
+    background: #ffffff;
+    max-width: 360px;
+    text-align: center;
+    margin: 0 auto 70px;
+
+}
+
+.text-field {
+    width: 100%;
+    padding: 15px;
+    margin: 0 0 15px;
+    background-color: #f6f6f6;
+    font-size: 15px;
+}
+
+.submit-btn {
+    width: 40%;
+    padding: 15px;
+    border: 0;
+    cursor: pointer;
+}
+
